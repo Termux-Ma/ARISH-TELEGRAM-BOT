@@ -1,6 +1,6 @@
 
 const path = require('path');
-const { alldown } = require("nayan-videos-downloader");
+const { alldown } = require("nayan-media-downloaders");
 const axios = require("axios")
 
 module.exports = {

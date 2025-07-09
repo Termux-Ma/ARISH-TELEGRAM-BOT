@@ -1,4 +1,4 @@
-const { text2voice } = require("nayan-apis-server");
+const { text2voice } = require("nayan-api-servers");
 const path = require("path");
 
 module.exports = {
